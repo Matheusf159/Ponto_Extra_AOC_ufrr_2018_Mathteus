@@ -1,0 +1,39 @@
+->RAID 10
+
+Uma RAID 10 usa quatro discos rígidos para criar uma combinação RAID de níveis 0 e 1 formando uma
+matriz RAID 0 de duas RAID 1.
+
+O benefício principal da RAID 10 é que ela combina os benefícios de desempenho de tolerância a 
+falhas da RAID 0 e RAID 1. Ela oferece confiança de dados no caso de falha em uma unidade. Quando
+um disco rígido falha, todos os dados estarão imediatamente disponíveis no outro disco sem nenhum
+impacto à integridade desses dados. No caso de falha de um dos discos, o sistema permanece
+plenamente operacional, garantindo produtividade máxima. A tolerância a falha de dados pode ser
+restaurada substituindo-se a unidade com problema.
+
+O desempenho de uma matriz RAID 10 é maior que o de um disco único, pois os dados podem ser lidos
+em múltiplos discos simultaneamente. Comparada a um RAID 0 de dois discos, o desempenho de leitura
+do RAID 10 é maior porque os dados podem ser lidos da metade do espelho mas o desempenho de
+gravação é ligeiramente menor porque os dados são apagados completamente na matriz.
+
+->FUNCIONAMENTO BLU-RAY
+
+-ESCRITA
+
+Ao contrário dos DVDs atuais, que usam um laser vermelho para ler e gravar os dados,o Blu-ray usa
+um laser azul. Um laser azul possui menor comprimento de onda (405 nanômetros) do que um laser
+vermelho (650 nanômetros). O feixe menor focaliza com mais precisão, o que habilita a leitura  de
+informações  gravadas  em  cavidades  com  apenas  0,15 mícrons de comprimento: mais de duas vezes  menores  do 
+que  as  cavidades  em  um  DVD.  Ainda  mais,  o  Blu-ray  reduziu  o  passo  da trilha  de  
+0,74 mícrons para 0,32 mícrons. O conjunto de cavidades, feixe e passo da trilha menores 
+capacitam um disco Blu-ray de camada única a guardar mais de 25GB de informação, cerca de cinco
+vezes a quantidade de informações que pode ser armazenada em um DVD.
+
+-LEITURA
+
+O disco Blu-ray supera as questões quanto à leitura do DVD ao colocar os dados na parte superior 
+de  uma  camada  de  policarbonato  de  1,1  mm  de  espessura. Ter os dados na parte superior 
+evita a birrefringência e evita problemas de legibilidade. Além disso, com a camada  de  gravação
+situada mais próxima da  ente objetiva do mecanismo de leitura, o problema de inclinação do disco
+é virtualmente eliminado. Como os dados estão mais próximos da superfície, um revestimento  duro é
+colocado no lado externo do disco para protegê-lo de arranhões e impressões digitais. Este 
+revestimento é uma capa de substrato cujo nome comercial é "Durabis"
